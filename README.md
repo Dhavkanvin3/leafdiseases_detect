@@ -5,20 +5,20 @@ An enterprise-grade AI-powered leaf disease detection system featuring a dual-in
 
 Experience the power of AI-driven plant health analysis in action
 
-🎯 Key Features
-🎯 Core Capabilities
-🔍 Advanced Disease Detection: Identifies 500+ plant diseases across multiple categories (fungal, bacterial, viral, pest-related, nutrient deficiencies)
-📊 Precision Severity Assessment: AI-powered classification of disease severity levels (mild, moderate, severe)
-**High-Confidence Scoring** : Provides confidence percentages (0-100%) with advanced uncertainty quantification
-💡 Expert Treatment Recommendations: Evidence-based, actionable treatment protocols tailored to specific diseases
-📋 Comprehensive Symptom Analysis: Detailed visual symptom identification with causal relationship mapping
-⚡ Real-time Processing: Optimized inference pipeline with sub-5-second response times
-🏗️ Architecture Components
-FastAPI Backend (app.py): RESTful API service with automatic OpenAPI documentation
-Streamlit Frontend (main.py): Interactive web interface with modern UI/UX design
-Core AI Engine (Leaf Disease/main.py): Advanced disease detection engine powered by Meta Llama Vision
-Utility Layer (utils.py): Image processing and data transformation utilities
-Cloud Deployment: Production-ready with Vercel integration and scalable architecture
+🎯 Key Features <br>
+🎯 Core Capabilities <br>
+🔍 Advanced Disease Detection: Identifies 500+ plant diseases across multiple categories (fungal, bacterial, viral, pest-related, nutrient deficiencies) <br>
+📊 Precision Severity Assessment: AI-powered classification of disease severity levels (mild, moderate, severe)<br>
+**High-Confidence Scoring** : Provides confidence percentages (0-100%) with advanced uncertainty quantification <br>
+💡 Expert Treatment Recommendations: Evidence-based, actionable treatment protocols tailored to specific diseases <br>
+📋 Comprehensive Symptom Analysis: Detailed visual symptom identification with causal relationship mapping <br>
+⚡ Real-time Processing: Optimized inference pipeline with sub-5-second response times <br>
+🏗️ Architecture Components <br>
+FastAPI Backend (app.py): RESTful API service with automatic OpenAPI documentation <br>
+Streamlit Frontend (main.py): Interactive web interface with modern UI/UX design <br>
+Core AI Engine (Leaf Disease/main.py): Advanced disease detection engine powered by Meta Llama Vision <br>
+Utility Layer (utils.py): Image processing and data transformation utilities <br>
+Cloud Deployment: Production-ready with Vercel integration and scalable architecture <br>
 🏗️ Project Architecture
 Directory Structure
 Main Application Components:
