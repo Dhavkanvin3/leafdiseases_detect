@@ -9,7 +9,7 @@ Experience the power of AI-driven plant health analysis in action
 🎯 Core Capabilities
 🔍 Advanced Disease Detection: Identifies 500+ plant diseases across multiple categories (fungal, bacterial, viral, pest-related, nutrient deficiencies)
 📊 Precision Severity Assessment: AI-powered classification of disease severity levels (mild, moderate, severe)
-** High-Confidence Scoring**: Provides confidence percentages (0-100%) with advanced uncertainty quantification
+**High-Confidence Scoring** : Provides confidence percentages (0-100%) with advanced uncertainty quantification
 💡 Expert Treatment Recommendations: Evidence-based, actionable treatment protocols tailored to specific diseases
 📋 Comprehensive Symptom Analysis: Detailed visual symptom identification with causal relationship mapping
 ⚡ Real-time Processing: Optimized inference pipeline with sub-5-second response times
@@ -36,4 +36,4 @@ Supporting Files:
 Core Module: Leaf Disease/main.py
 The heart of the system, featuring the LeafDiseaseDetector Class which provides advanced AI-powered leaf disease detection using Groq's Llama Vision models. This class supports multi-format image input (JPEG, PNG, WebP, BMP, TIFF), automatic base64 encoding, structured JSON output with comprehensive disease information, robust error handling and response validation, plus configurable AI model parameters.
 
-The DiseaseAnalysisResult DataClass serves as a structured container for disease analysis results, including boolean detection status, specific disease identification, category classification, severity assessment levels, AI confidence scores (0-100%), observable symptom lists, environmental and biological factors, evidence-based treatment recommendations, and ISO 8601 timestamps.
+The DiseaseAnalysisResult DataClass serves as a structured container for disease analysis results, including boolean detection status, specific disease identification, category classification, severity assessment levels, AI confidence scores (0-100%), observable symptom lists, environmental and biological factors, evidence-based treatment recommendationsspecific disease identification, category classification, severity assessment levels, AI confidence scores (0-100%), observable symptom lists, environmental and biological factors, evidence-based treatment recommendations, and ISO 8601 timestamps.
